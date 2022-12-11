@@ -1,1 +1,1 @@
-https://TrueHikka.github.io/rsschool-cv/cv
+https://TrueHikka.github.io/rsschool-cv/
