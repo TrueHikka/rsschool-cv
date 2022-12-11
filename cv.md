@@ -4,8 +4,11 @@
 * * *
 ### Contact information: 
 **Phone:** +7 952 2675531
+
 **E-mail:** vitaly_rubis@gmail.com
+
 **Telegram:** @deadcatboy
+
 **Nickname on the rs school discord server:** TrueHikka (@TrueHikka)
 * * * 
 #### About myself:
