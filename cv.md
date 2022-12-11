@@ -22,6 +22,7 @@ In this area, it attracts not so much earnings as the opportunity to work intell
 * java script (basic)
 * react js (basic)
 * git & github (basic)
+
 * * *
 #### Code example:
 
@@ -40,6 +41,7 @@ console.log(result)
 * **Courses:**
     * [Result School Course "Profession Junior Frontend-developer"](https://result.school/products/junior-js) (in progress)
     * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
 * * *
 #### Languages:
 * English - A2
